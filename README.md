@@ -1,4 +1,4 @@
-# AutoBookz
+# AutoBookz v1.0
 
 Autobooks is a Python-based tool designed to automate tasks within Zybooks, mainly solving the boring participation problems within Zybooks cources. This tool interacts with the Zybooks API to streamline your study workflow and complete these automatically.
 
